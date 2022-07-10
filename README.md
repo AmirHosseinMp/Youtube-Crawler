@@ -1,21 +1,47 @@
-# Youtube-Crawler
-Get YouTube channel  list  about  specific keyword
-
-This app use google youtube api v3
-
- 
-# Using steps
-1.pip install -r requierments.txt (just for first time)
-2.run YoutubeCrawler(CMD).py or YoutubeCrawler(GUI).py
-3.Excels saved in result folder 
+# Youtube Crawler
 
 
 
-*Note1: Notice that for using this app you need a token
-*Note2: How to generate token:
-    2.1 run App ==> You are redirected to google sign in page
-    2.2 Choose email ==> Give permission to client1 
-    2.3 In the next page press "Advanced"  then press  "go to client1(unsafe)"
-    2.4 In the next page press bottom "continue"
-    2.5 In the next page if you see "The authentication flow has completed. You may close this window." 
-        your token has been generated in folder credentials with name "token.pickle"
+## Description
+
+get Youtube channel info's list about specific keyword
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Amirhossein Mp  
+ex. @amirhosseinmotamedipoor@gmail.com
+
+
+
+
+
+
