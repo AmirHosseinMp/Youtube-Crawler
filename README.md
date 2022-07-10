@@ -35,10 +35,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Amirhossein Mp  
-ex. @amirhosseinmotamedipoor@gmail.com
+Amirhossein Mp  
+amirhosseinmotamedipoor@gmail.com
 
 
 
