@@ -4,7 +4,7 @@ Get YouTube channel  list  about  specific keyword
 This app use google youtube api v3
 
  
-Using steps
+# Using steps
 1.pip install -r requierments.txt (just for first time)
 2.run YoutubeCrawler(CMD).py or YoutubeCrawler(GUI).py
 3.Excels saved in result folder 
